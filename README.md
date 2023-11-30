@@ -115,3 +115,6 @@ Ensure that an Android emulator or a physical device is connected.
 
 This project is licensed under the [MIT License](LICENSE).
 
+
+
+[def]: #screenshots
