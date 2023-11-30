@@ -19,6 +19,7 @@ This project serves as a proof of concept that one can predict and monitor activ
   - [Requirements](#requirements)
   - [Setup](#setup)
     - [Flask Server](#flask-server)
+    - [Flutter Android App](#flutter-android-app)
   - [Usage](#usage)
   - [Screenshots](#screenshots)
   - [License](#license)
