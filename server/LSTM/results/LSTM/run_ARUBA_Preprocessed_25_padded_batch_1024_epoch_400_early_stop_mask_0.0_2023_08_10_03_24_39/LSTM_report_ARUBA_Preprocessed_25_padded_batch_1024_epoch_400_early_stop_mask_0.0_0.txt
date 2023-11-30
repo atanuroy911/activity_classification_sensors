@@ -1,0 +1,18 @@
+                  precision    recall  f1-score   support
+
+   Bed_to_Toilet       0.97      1.00      0.98        94
+          Eating       0.90      1.00      0.94       154
+      Enter_Home       0.50      0.96      0.66       256
+    Housekeeping       0.75      0.90      0.82        20
+      Leave_Home       0.30      0.01      0.02       253
+Meal_Preparation       0.96      1.00      0.98       964
+           Other       1.00      1.00      1.00    435662
+           Relax       1.00      1.00      1.00      1751
+       Respirate       0.00      0.00      0.00         3
+        Sleeping       1.00      0.99      1.00       240
+     Wash_Dishes       0.00      0.00      0.00        39
+            Work       0.93      0.97      0.95       103
+
+        accuracy                           1.00    439539
+       macro avg       0.69      0.74      0.70    439539
+    weighted avg       1.00      1.00      1.00    439539

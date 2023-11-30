@@ -1,0 +1,22 @@
+                         precision    recall  f1-score   support
+
+          Bed_to_Toilet       0.74      0.41      0.53        49
+                 Chores       0.57      0.01      0.02      1408
+          Desk_Activity       0.76      0.62      0.68      1914
+     Dining_Rm_Activity       0.44      0.19      0.27       763
+               Eve_Meds       0.00      0.00      0.00        20
+         Guest_Bathroom       0.63      0.44      0.51      1291
+       Kitchen_Activity       0.67      0.70      0.69     23999
+             Leave_Home       0.72      0.59      0.65       608
+        Master_Bathroom       0.61      0.52      0.56      2747
+Master_Bedroom_Activity       0.42      0.07      0.12      3264
+               Meditate       0.65      0.62      0.64       275
+           Morning_Meds       0.00      0.00      0.00       147
+                  Other       0.63      0.69      0.66     48787
+                   Read       0.67      0.76      0.71     10266
+                  Sleep       0.76      0.66      0.71      4909
+               Watch_TV       0.62      0.58      0.60      4731
+
+               accuracy                           0.65    105178
+              macro avg       0.56      0.43      0.46    105178
+           weighted avg       0.64      0.65      0.64    105178

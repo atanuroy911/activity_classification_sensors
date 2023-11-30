@@ -1,0 +1,6 @@
+*.pth
+__pycache__/
+server/random_forest_model.mod
+server/random_forest_model.pkl
+*.apk
+client/build
